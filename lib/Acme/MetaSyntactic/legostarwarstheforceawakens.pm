@@ -15,7 +15,7 @@ q[It's a trap!!];
 =head1 DESCRIPTION
 
 Characters from the LEGO Star Wars The Force Awakens game as gleaned from
-the L<http://www.gamefaqs.com/> walkthroughs.
+Brickpedia L<http://lego.wikia.com>.
 
 I<It's a trap!!>
 
